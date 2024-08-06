@@ -22,8 +22,7 @@ Project status: ✅Done
 
 ### 📝 Features
 
-- [x] Input to enter text
-- [x] Button "Generate QR Code"
+- [x] See the current date
 
 ### 🧐 Demonstration
 
